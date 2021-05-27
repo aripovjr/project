@@ -5,7 +5,7 @@ include_once "includes/connection.php";
 <!DOCTYPE html>
 <html lang="en">
 	<head>
-		<title>My Dynamic Site</title>
+		<title>Blogging Platform</title>
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<link rel="stylesheet" href="styles/bootstrap.min.css">
 		<link rel="stylesheet" href="styles/cssfile.css">
